@@ -2,7 +2,7 @@
 
 Extract face from photos and reorient them based on an input face.
 
-I can't afford an artist atm, so I wrote this to create quick temporary texture for characters in a game. Simply give it a face texture to go off of, it will use opencv and dlib to find the points, then it will go through a folder of images, extracting faces and orienting them for you. This could be modified 
+I can't afford an artist atm, so I wrote this to create quick temporary texture for characters in a game. Simply give it a face texture to go off of, it will use opencv and dlib to find the points, then it will go through a folder of images, extracting faces and orienting them for you. But you could use it for more than just game textures.
 
 ## Overview
 Given a template face texture like:
