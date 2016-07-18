@@ -35,4 +35,4 @@ and if you want to use the image enhance feature in faceMerge.py
 * GUI + Precompiled .exe
 * Get face pose/rotation, then only grab triangles from side of face closest to camera. (For better quality.)
 * Get foreheads.
-* Use an emotion processor to merge images by emotion. These could then be used as blendmodes in game?
+* Use an emotion processor to merge images by emotion. These could then be blended in game?
