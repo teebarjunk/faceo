@@ -1,0 +1,11 @@
+'''
+FACE_POINTS = list(range(17, 68))
+MOUTH_POINTS = list(range(48, 61))
+RIGHT_BROW_POINTS = list(range(17, 22))
+LEFT_BROW_POINTS = list(range(22, 27))
+RIGHT_EYE_POINTS = list(range(36, 42))
+LEFT_EYE_POINTS = list(range(42, 48))
+NOSE_POINTS = list(range(27, 35))
+JAW_POINTS = list(range(0, 17))
+CHIN_POINTS=list(range(6,11))
+'''
